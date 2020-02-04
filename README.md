@@ -35,4 +35,5 @@ GET: /projects
 
 ## Excluir um projeto
 **:id** deve passar o id de um projeto existente
+
 DEL: /projects/:id
